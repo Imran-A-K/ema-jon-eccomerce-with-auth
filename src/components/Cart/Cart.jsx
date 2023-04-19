@@ -6,7 +6,7 @@ import { faTrashAlt } from '@fortawesome/free-solid-svg-icons'
 const Cart = (props) => {
     // const cart = props.cart
     const {cart,handleClearCart,children} = props
-    console.log(children);
+    // console.log(children);
 
     let totalPrice = 0;
     let totalShipping = 0;

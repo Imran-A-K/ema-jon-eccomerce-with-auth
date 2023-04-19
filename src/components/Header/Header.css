@@ -16,4 +16,9 @@ nav.header a {
 nav.header a:hover {
     color: rgb(218, 145, 11);
   }
+
+  .text-white{
+    color: white;
+    padding-left: 5px;
+  }
   
