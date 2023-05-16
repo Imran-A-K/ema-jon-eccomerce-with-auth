@@ -24,3 +24,10 @@ align-items: center;
 .proceed-link{
     text-decoration: none;
 }
+.pagination{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.pagination .selected{
+    background-color: #FF9900;
+}
